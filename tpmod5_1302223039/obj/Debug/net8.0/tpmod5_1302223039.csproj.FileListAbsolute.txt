@@ -1,0 +1,15 @@
+D:\tpmod5_1302223039\tpmod5_1302223039\obj\Debug\net8.0\tpmod5_1302223039.GeneratedMSBuildEditorConfig.editorconfig
+D:\tpmod5_1302223039\tpmod5_1302223039\obj\Debug\net8.0\tpmod5_1302223039.AssemblyInfoInputs.cache
+D:\tpmod5_1302223039\tpmod5_1302223039\obj\Debug\net8.0\tpmod5_1302223039.AssemblyInfo.cs
+D:\tpmod5_1302223039\tpmod5_1302223039\obj\Debug\net8.0\tpmod5_1302223039.csproj.CoreCompileInputs.cache
+D:\tpmod5_1302223039\tpmod5_1302223039\obj\Debug\net8.0\tpmod5_1302223039.sourcelink.json
+D:\tpmod5_1302223039\tpmod5_1302223039\bin\Debug\net8.0\tpmod5_1302223039.exe
+D:\tpmod5_1302223039\tpmod5_1302223039\bin\Debug\net8.0\tpmod5_1302223039.deps.json
+D:\tpmod5_1302223039\tpmod5_1302223039\bin\Debug\net8.0\tpmod5_1302223039.runtimeconfig.json
+D:\tpmod5_1302223039\tpmod5_1302223039\bin\Debug\net8.0\tpmod5_1302223039.dll
+D:\tpmod5_1302223039\tpmod5_1302223039\bin\Debug\net8.0\tpmod5_1302223039.pdb
+D:\tpmod5_1302223039\tpmod5_1302223039\obj\Debug\net8.0\tpmod5_1302223039.dll
+D:\tpmod5_1302223039\tpmod5_1302223039\obj\Debug\net8.0\refint\tpmod5_1302223039.dll
+D:\tpmod5_1302223039\tpmod5_1302223039\obj\Debug\net8.0\tpmod5_1302223039.pdb
+D:\tpmod5_1302223039\tpmod5_1302223039\obj\Debug\net8.0\tpmod5_1302223039.genruntimeconfig.cache
+D:\tpmod5_1302223039\tpmod5_1302223039\obj\Debug\net8.0\ref\tpmod5_1302223039.dll
